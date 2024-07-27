@@ -1,5 +1,5 @@
-## Hi there 👋 im Akash 
-
+## Hi there 👋 
+###  Hi, I'm Akash from Vancouver. I'm a Post Bachelors Graduate from Douglas College. I enjoy learning frameworks like React and building projects with Node.js and JavaScript. Currently, I'm looking for opportunities as a Full Stack Web Developer.
 <!--
 **akashbalyan/akashbalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
