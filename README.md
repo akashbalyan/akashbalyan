@@ -10,6 +10,16 @@
 <li>Like tot work on libraries and frameworks based on javascript and Nodejs.</li>
 <li>Interested in Data Structures and Algorithms, and enjoy solving coding problems.</li>
 </ul>
+
+### Technical Skills
+
+| Category            | Skills                                                                 |
+|---------------------|------------------------------------------------------------------------|
+| **Frontend**        | React, HTML, CSS, JavaScript, Java, Python, TypeScript, Redux, Bootstrap, Tailwind CSS |
+| **Backend**         | Node.js, Express.js, RESTful APIs, Websockets, Socket.io MySQL, MongoDB, Firebase |
+| **DevOps/Tools**    | Git, Docker, Jenkins, CI/CD Pipelines, AWS (EC2, S3), Azure, Heroku    |
+| **Testing**         | Jest, Mocha, Chai, Cypress                                             |
+| **Other Skills**    | Agile/Scrum, Data Structures and Algorithms, Design Patterns, Responsive Design, Cross-Browser Compatibility |
 <!--
 **akashbalyan/akashbalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
