@@ -1,5 +1,15 @@
 ## Hi there 👋 
-###  Hi, I'm Akash from Vancouver. I'm a Post Bachelors Graduate from Douglas College. I enjoy learning frameworks like React and building projects with Node.js and JavaScript. Currently, I'm looking for opportunities as a Full Stack Web Developer.
+###      
+<h3 align="center">
+  I'm a Post Bachelors Graduate from Douglas College, New Westminster, Canada.
+</h3>
+
+### About Me
+<ul>
+<li>3 Years of expeience as Full Stack Web Develper.</li>
+<li>Like tot work on libraries and frameworks based on javascript and Nodejs.</li>
+<li>Interested in Data Structures and Algorithms, and enjoy solving coding problems.</li>
+</ul>
 <!--
 **akashbalyan/akashbalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
