@@ -20,6 +20,24 @@
 | **DevOps/Tools**    | Git, Docker, Jenkins, CI/CD Pipelines, AWS (EC2, S3), Azure, Heroku    |
 | **Testing**         | Jest, Mocha, Chai, Cypress                                             |
 | **Other Skills**    | Agile/Scrum, Data Structures and Algorithms, Design Patterns, Responsive Design, Cross-Browser Compatibility |
+
+
+### Projects
+
+| Index | Project                             | Tech Stack         |
+|-------|-------------------------------------|--------------------|
+| 1     | [Social Media Application for Hiking Community](https://github.com/akashbalyan/TrailSocial.git) | React, Node.js, Express, MongoDb    |
+| 2     | [Cloud Deployment Platform](https://github.com/akashbalyan/Vercel.git) | NodeJs, Typescript ,Express ,Redis, CloudFlare R2 Bucket, React |
+
+
+
+
+
+
+
+
+
+
 <!--
 **akashbalyan/akashbalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
