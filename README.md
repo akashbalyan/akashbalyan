@@ -28,6 +28,7 @@
 |-------|-------------------------------------|--------------------|
 | 1     | [Social Media Application for Hiking Community](https://github.com/akashbalyan/TrailSocial.git) | React, Node.js, Express, MongoDb    |
 | 2     | [Cloud Deployment Platform](https://github.com/akashbalyan/Vercel.git) | NodeJs, Typescript ,Express ,Redis, CloudFlare R2 Bucket, React |
+| 3     | [Automated Road test appointment booking bot](https://github.com/akashbalyan/RoadTestBookingBot) | NodeJs, Javascript ,Axios , Puppeteer library |
 
 
 
