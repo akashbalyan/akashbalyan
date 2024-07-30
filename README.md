@@ -32,13 +32,16 @@
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/akash-balyan-0129981b0/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="35" height="35">
 </a>
+
 <a href="https://leetcode.com/u/akashbalyan/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="35" height="35">
 </a>
 
-
+<a href="mailto:akashbalyan97@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="35" height="35">
+</a>
 
 
 
