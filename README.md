@@ -30,6 +30,13 @@
 | 2     | [Cloud Deployment Platform](https://github.com/akashbalyan/Vercel.git) | NodeJs, Typescript ,Express ,Redis, CloudFlare R2 Bucket, React |
 | 3     | [Automated Road test appointment booking bot](https://github.com/akashbalyan/RoadTestBookingBot) | NodeJs, Javascript ,Axios , Puppeteer library |
 
+### Connect with me
+<a href="https://www.linkedin.com/in/akash-balyan-0129981b0/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="50" height="50">
+</a>
+<a href="https://leetcode.com/u/akashbalyan/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50">
+</a>
 
 
 
