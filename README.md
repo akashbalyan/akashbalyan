@@ -7,7 +7,7 @@
 ### About Me
 <ul>
 <li>3 Years of work expeience as Full Stack Web Develper.</li>
-<li>Like tot work on libraries and frameworks based on javascript and Nodejs.</li>
+<li>Like to work on libraries and frameworks based on javascript and Nodejs.</li>
 <li>Interested in Data Structures and Algorithms, and enjoy solving coding problems.</li>
 </ul>
 
