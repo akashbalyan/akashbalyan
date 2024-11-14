@@ -29,7 +29,7 @@
 | 1     | [Social Media Application for Hiking Community](https://github.com/akashbalyan/TrailSocial.git) | React, Node.js, Express, MongoDb    |
 | 2     | [Cloud Deployment Platform](https://github.com/akashbalyan/Vercel.git) | NodeJs, Typescript ,Express ,Redis, CloudFlare R2 Bucket, React |
 | 3     | [Automated Road test appointment booking bot](https://github.com/akashbalyan/RoadTestBookingBot) | NodeJs, Javascript ,Axios , Puppeteer library |
-| 4     | [Automated USVisa appointments booking (Private)](https://github.com/akashbalyan/USVisaAppointment) | NodeJs, Javascript ,Axios , Puppeteer library, Gmail Api |
+| 4     | [Automated USVisa appointments booking ](https://github.com/akashbalyan/USVisaAppointment) | NodeJs, Javascript, Axios , Puppeteer library, Gmail Api |
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/akash-balyan-0129981b0/" target="_blank">
