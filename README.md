@@ -6,9 +6,10 @@
 
 ### About Me
 <ul>
-<li>3 Years of work expeience as Full Stack Web Develper.</li>
-<li>Like to work on libraries and frameworks based on javascript and Nodejs.</li>
-<li>Interested in Data Structures and Algorithms, and enjoy solving coding problems.</li>
+<li>🔥 3+ years of professional experience as a **Full Stack Web Developer**</li>
+<li>🌟 Passionate about building scalable, user-friendly applications and solving real-world problems</li>
+<li>🧠 Strong interest in **Data Structures and Algorithms**, consistently improving problem-solving skills</li>
+<li>💻 Love working with **JavaScript, Node.js**, and exploring innovative tools and frameworks</li>
 </ul>
 
 ### Technical Skills
