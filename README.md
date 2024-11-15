@@ -4,15 +4,15 @@
   I'm a Post Bachelors Graduate from Douglas College, New Westminster, Canada.
 </h3>
 
-### About Me
+### 👨‍💻About Me
 <ul>
-<li>🔥 3+ years of professional experience as a **Full Stack Web Developer**</li>
+<li>🔥 3+ years of professional experience as a <strong>Full Stack Web Developer</strong></li>
 <li>🌟 Passionate about building scalable, user-friendly applications and solving real-world problems</li>
-<li>🧠 Strong interest in **Data Structures and Algorithms**, consistently improving problem-solving skills</li>
-<li>💻 Love working with **JavaScript, Node.js**, and exploring innovative tools and frameworks</li>
+<li>🧠 Strong interest in <strong>Data Structures and Algorithms</strong>, consistently improving problem-solving skills</li>
+<li>💻 Love working with <strong>JavaScript, Node.js</strong>, and exploring innovative tools and frameworks</li>
 </ul>
 
-### Technical Skills
+### 💡Technical Skills
 
 | Category            | Skills                                                                 |
 |---------------------|------------------------------------------------------------------------|
@@ -27,10 +27,17 @@
 
 | Index | Project                             | Tech Stack         |
 |-------|-------------------------------------|--------------------|
-| 1     | [Social Media Application for Hiking Community](https://github.com/akashbalyan/TrailSocial.git) | React, Node.js, Express, MongoDb    |
-| 2     | [Cloud Deployment Platform](https://github.com/akashbalyan/Vercel.git) | NodeJs, Typescript ,Express ,Redis, CloudFlare R2 Bucket, React |
-| 3     | [Automated Road test appointment booking bot](https://github.com/akashbalyan/RoadTestBookingBot) | NodeJs, Javascript ,Axios , Puppeteer library |
-| 4     | [Automated USVisa appointments booking ](https://github.com/akashbalyan/USVisaAppointment) | NodeJs, Javascript, Axios , Puppeteer library, Gmail Api |
+| 1️⃣     | [Social Media Application for Hiking Community](https://github.com/akashbalyan/TrailSocial.git) | React, Node.js, Express, MongoDb    |
+| 2️⃣     | [Cloud Deployment Platform](https://github.com/akashbalyan/Vercel.git) | NodeJs, Typescript ,Express ,Redis, CloudFlare R2 Bucket, React |
+| 3️⃣     | [Automated Road test appointment booking bot](https://github.com/akashbalyan/RoadTestBookingBot) | NodeJs, Javascript ,Axios , Puppeteer library |
+| 4️⃣     | [Automated USVisa appointments booking ](https://github.com/akashbalyan/USVisaAppointment) | NodeJs, Javascript, Axios , Puppeteer library, Gmail Api |
+
+### 🌱Currently Learning
+<ul>
+  <li>📖 Deepening knowledge in <strong>Developer tools</strong> and <strong>Cloud Computing</strong></li>
+  <li>🏗️ Practicing <strong>LeetCode</strong> for algorithmic problem-solving.</li>
+  <li>⚡ Brushing up on advanced <strong>React.js</strong> techniques and <strong>Javascript</strong></li>
+</ul>
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/akash-balyan-0129981b0/" target="_blank">
